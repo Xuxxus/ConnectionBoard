@@ -4,4 +4,4 @@ PCB to connect general Hardware
 Considerations:
 -> 13 IMUs, all connected to Host (ADO, SCL and SDA)
 -> 1 INT (interrupt) Pin considered
--> 3 LEDS connected
+-> 2 LEDS connected
